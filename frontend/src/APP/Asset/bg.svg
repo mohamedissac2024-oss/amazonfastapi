@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Shopping illustration">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fde68a"/>
+      <stop offset="55%" stop-color="#f59e0b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="480" rx="28" fill="url(#bg)"/>
+  <circle cx="500" cy="110" r="70" fill="#fef3c7" opacity="0.85"/>
+  <!-- shopping bag -->
+  <rect x="200" y="190" width="240" height="190" rx="18" fill="#0f172a"/>
+  <path d="M255 190 v-25 a65 65 0 0 1 130 0 v25" fill="none" stroke="#fef3c7" stroke-width="16" stroke-linecap="round"/>
+  <text x="320" y="305" text-anchor="middle" font-family="sans-serif" font-size="46" font-weight="bold" fill="#fbbf24">a→z</text>
+  <text x="320" y="445" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#ffffff">amazonweb</text>
+</svg>
